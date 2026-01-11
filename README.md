@@ -14,7 +14,7 @@ A beginner-friendly, object-oriented Streamlit dashboard for exploring railway s
 
 ## Quick start
 
-```bash
+
 # install dependencies
 pip install streamlit pandas matplotlib seaborn numpy
 
