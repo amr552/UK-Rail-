@@ -21,3 +21,9 @@ pip install streamlit pandas matplotlib seaborn numpy
 # run the app
 streamlit run app.py
 
+
+<img width="1917" height="715" alt="image" src="https://github.com/user-attachments/assets/2429ab50-b3a9-44bb-9628-53fe8edcd866" />
+<img width="1831" height="838" alt="image" src="https://github.com/user-attachments/assets/21cd54cb-63dc-4898-9e1b-c9e9bef35520" />
+<img width="1884" height="846" alt="image" src="https://github.com/user-attachments/assets/ddb9153f-f0fa-4847-8853-a0e6bc3b38af" />
+<img width="1899" height="868" alt="image" src="https://github.com/user-attachments/assets/d4399d88-59dc-48e9-b158-6ef0396325c7" />
+
